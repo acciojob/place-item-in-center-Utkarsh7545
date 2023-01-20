@@ -1,2 +1,5 @@
-
-/* Your CSS Code here. */
+.holder{
+	display: flex;
+	background-color: aqua;
+	justify-content: center;
+}
