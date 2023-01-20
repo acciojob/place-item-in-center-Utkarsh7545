@@ -4,3 +4,9 @@
 	background-color: aqua;
 	justify-content: center;
 }
+.holder .item-1{
+	display: flex;
+	background-color: white;
+	flex-wrap: wrap;
+	justify-content: center;
+}
